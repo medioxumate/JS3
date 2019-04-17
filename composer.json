@@ -1,0 +1,12 @@
+{
+  "name": "tokiehn/329/JS3",
+  "authors": [
+  {
+    "name": "Brian Kiehn",
+    "email": "bkiehn@greenriver.mail.edu"
+  }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
